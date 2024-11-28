@@ -25,6 +25,8 @@ public:
 };
 
 
+
+// Another Soln check LCS == s
 bool isSubsequence(std::string s, std::string t) {
     int m = s.length();
     int n = t.length();
